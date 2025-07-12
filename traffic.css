@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.t{
+    align-items: center;
+    border: 100px solid rgb(71, 222, 55);
+    padding: 25px;
+    margin-bottom: 250px;
+    border-width: 6px;
+
+}
+.r{
+    align-items: center;
+    border: 100px solid red;
+    border-radius: 75% ;
+    margin: 100px;
+
+}
+.o{
+    align-items: center;
+    border: 100px solid orange;
+    border-radius: 75% ;
+    margin: 100px;
+}
+.g{
+    align-items: center;
+    border: 100px solid green;
+    border-radius: 75% ;
+    margin: 100px;
+}
+.p{
+    align-items: center; 
+    border: 10px solid brown;
+    border-width: 5px;
+    margin: 100px;
+}
